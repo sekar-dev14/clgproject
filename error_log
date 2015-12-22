@@ -1,0 +1,86 @@
+[29-Oct-2015 17:59:29 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'praveenp'@'localhost' (using password: NO) in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 6
+[29-Oct-2015 17:59:29 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 6
+[29-Oct-2015 17:59:29 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 8
+[29-Oct-2015 17:59:29 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 15
+[29-Oct-2015 17:59:29 Etc/GMT] PHP Notice:  Undefined variable: content in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 28
+[29-Oct-2015 17:59:29 Etc/GMT] PHP Notice:  Undefined variable: activated_userid in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 30
+[29-Oct-2015 18:00:05 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'praveenp'@'localhost' (using password: NO) in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 6
+[29-Oct-2015 18:00:05 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 6
+[29-Oct-2015 18:00:05 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 8
+[29-Oct-2015 18:00:05 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 15
+[29-Oct-2015 18:00:05 Etc/GMT] PHP Notice:  Undefined variable: content in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 28
+[29-Oct-2015 18:00:05 Etc/GMT] PHP Notice:  Undefined variable: activated_userid in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 30
+[29-Oct-2015 18:00:50 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'praveenp'@'localhost' (using password: NO) in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 6
+[29-Oct-2015 18:00:50 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 6
+[29-Oct-2015 18:00:50 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 8
+[29-Oct-2015 18:00:50 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 15
+[29-Oct-2015 18:00:50 Etc/GMT] PHP Notice:  Undefined variable: content in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 28
+[29-Oct-2015 18:00:50 Etc/GMT] PHP Notice:  Undefined variable: activated_userid in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 30
+[29-Oct-2015 18:01:31 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'praveenp'@'localhost' (using password: NO) in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 6
+[29-Oct-2015 18:01:31 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 6
+[29-Oct-2015 18:01:31 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 8
+[29-Oct-2015 18:01:31 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 15
+[29-Oct-2015 18:01:31 Etc/GMT] PHP Notice:  Undefined variable: content in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 28
+[29-Oct-2015 18:01:31 Etc/GMT] PHP Notice:  Undefined variable: activated_userid in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 30
+[29-Oct-2015 18:01:33 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'praveenp'@'localhost' (using password: NO) in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 6
+[29-Oct-2015 18:01:33 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 6
+[29-Oct-2015 18:01:33 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 8
+[29-Oct-2015 18:01:33 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 15
+[29-Oct-2015 18:01:33 Etc/GMT] PHP Notice:  Undefined variable: content in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 28
+[29-Oct-2015 18:01:33 Etc/GMT] PHP Notice:  Undefined variable: activated_userid in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 30
+[29-Oct-2015 18:02:26 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'praveenp'@'localhost' (using password: NO) in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 6
+[29-Oct-2015 18:02:26 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 6
+[29-Oct-2015 18:02:26 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 8
+[29-Oct-2015 18:02:26 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 15
+[29-Oct-2015 18:02:26 Etc/GMT] PHP Notice:  Undefined variable: content in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 29
+[29-Oct-2015 18:02:26 Etc/GMT] PHP Notice:  Undefined variable: activated_userid in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 31
+[29-Oct-2015 18:02:28 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'praveenp'@'localhost' (using password: NO) in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 6
+[29-Oct-2015 18:02:28 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 6
+[29-Oct-2015 18:02:28 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 8
+[29-Oct-2015 18:02:28 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 15
+[29-Oct-2015 18:02:28 Etc/GMT] PHP Notice:  Undefined variable: content in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 29
+[29-Oct-2015 18:02:28 Etc/GMT] PHP Notice:  Undefined variable: activated_userid in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 31
+[01-Nov-2015 16:42:37 Etc/GMT] PHP Warning:  include(/var/www/html/college/Libaries/include/session.php): failed to open stream: No such file or directory in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 2
+[01-Nov-2015 16:42:37 Etc/GMT] PHP Warning:  include(/var/www/html/college/Libaries/include/session.php): failed to open stream: No such file or directory in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 2
+[01-Nov-2015 16:42:37 Etc/GMT] PHP Warning:  include(): Failed opening '/var/www/html/college/Libaries/include/session.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 2
+[01-Nov-2015 16:42:37 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'praveenp'@'localhost' (using password: NO) in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 10
+[01-Nov-2015 16:42:37 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 10
+[01-Nov-2015 16:42:37 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 12
+[01-Nov-2015 16:42:37 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 19
+[01-Nov-2015 16:42:37 Etc/GMT] PHP Notice:  Undefined variable: content in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 35
+[01-Nov-2015 16:42:37 Etc/GMT] PHP Notice:  Undefined variable: activated_userid in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 37
+[01-Nov-2015 16:45:40 Etc/GMT] PHP Warning:  include(/var/www/html/college/Libaries/include/session.php): failed to open stream: No such file or directory in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 2
+[01-Nov-2015 16:45:40 Etc/GMT] PHP Warning:  include(/var/www/html/college/Libaries/include/session.php): failed to open stream: No such file or directory in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 2
+[01-Nov-2015 16:45:40 Etc/GMT] PHP Warning:  include(): Failed opening '/var/www/html/college/Libaries/include/session.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 2
+[01-Nov-2015 16:45:40 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'praveenp'@'localhost' (using password: NO) in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 12
+[01-Nov-2015 16:45:40 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 12
+[01-Nov-2015 16:45:40 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 14
+[01-Nov-2015 16:45:40 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 21
+[01-Nov-2015 16:45:40 Etc/GMT] PHP Notice:  Undefined variable: content in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 37
+[01-Nov-2015 16:45:40 Etc/GMT] PHP Notice:  Undefined variable: activated_userid in /home/praveenp/public_html/campustrack/College/SendActiveMailToStudent.php on line 39
+[01-Nov-2015 16:48:53 Etc/GMT] PHP Warning:  mail() expects at least 3 parameters, 2 given in /home/praveenp/public_html/campustrack/College/temp.php on line 1
+[01-Nov-2015 17:21:56 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/praveenp/public_html/campustrack/PHPMailer/class.phpmailer.php on line 594
+[01-Nov-2015 17:21:57 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/praveenp/public_html/campustrack/PHPMailer/class.phpmailer.php on line 594
+[01-Nov-2015 17:21:57 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/praveenp/public_html/campustrack/PHPMailer/class.phpmailer.php on line 594
+[01-Nov-2015 17:21:58 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/praveenp/public_html/campustrack/PHPMailer/class.phpmailer.php on line 594
+[01-Nov-2015 17:21:58 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/praveenp/public_html/campustrack/PHPMailer/class.phpmailer.php on line 594
+[01-Nov-2015 17:21:58 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/praveenp/public_html/campustrack/PHPMailer/class.phpmailer.php on line 594
+[01-Nov-2015 17:21:59 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/praveenp/public_html/campustrack/PHPMailer/class.phpmailer.php on line 594
+[01-Nov-2015 17:31:53 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/praveenp/public_html/campustrack/PHPMailer/class.phpmailer.php on line 594
+[01-Nov-2015 17:31:54 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/praveenp/public_html/campustrack/PHPMailer/class.phpmailer.php on line 594
+[01-Nov-2015 17:31:54 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/praveenp/public_html/campustrack/PHPMailer/class.phpmailer.php on line 594
+[01-Nov-2015 17:31:55 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/praveenp/public_html/campustrack/PHPMailer/class.phpmailer.php on line 594
+[01-Nov-2015 17:31:55 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/praveenp/public_html/campustrack/PHPMailer/class.phpmailer.php on line 594
+[01-Nov-2015 17:31:55 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/praveenp/public_html/campustrack/PHPMailer/class.phpmailer.php on line 594
+[01-Nov-2015 17:31:56 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/praveenp/public_html/campustrack/PHPMailer/class.phpmailer.php on line 594
+[01-Nov-2015 17:42:23 Etc/UTC] PHP Warning:  require(../PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/praveenp/public_html/campustrack/College/temp.php on line 10
+[01-Nov-2015 17:42:23 Etc/UTC] PHP Warning:  require(../PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/praveenp/public_html/campustrack/College/temp.php on line 10
+[01-Nov-2015 17:42:23 Etc/UTC] PHP Fatal error:  require(): Failed opening required '../PHPMailerAutoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/praveenp/public_html/campustrack/College/temp.php on line 10
+[01-Nov-2015 17:42:32 Etc/UTC] PHP Warning:  require(../PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/praveenp/public_html/campustrack/College/temp.php on line 10
+[01-Nov-2015 17:42:32 Etc/UTC] PHP Warning:  require(../PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/praveenp/public_html/campustrack/College/temp.php on line 10
+[01-Nov-2015 17:42:32 Etc/UTC] PHP Fatal error:  require(): Failed opening required '../PHPMailerAutoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/praveenp/public_html/campustrack/College/temp.php on line 10
+[01-Nov-2015 17:47:26 Etc/UTC] PHP Deprecated:  Function eregi() is deprecated in /home/praveenp/public_html/campustrack/PHPMailer/class.phpmailer.php on line 594
+[01-Nov-2015 17:54:11 Etc/UTC] PHP Deprecated:  Function eregi() is deprecated in /home/praveenp/public_html/campustrack/PHPMailer/class.phpmailer.php on line 594
+[01-Nov-2015 17:56:26 Etc/UTC] PHP Deprecated:  Function eregi() is deprecated in /home/praveenp/public_html/campustrack/PHPMailer/class.phpmailer.php on line 594
+[01-Nov-2015 17:58:32 Etc/UTC] PHP Notice:  Undefined variable: emailid in /home/praveenp/public_html/campustrack/College/temp.php on line 66
+[01-Nov-2015 17:58:32 Etc/UTC] PHP Notice:  Undefined variable: pwd in /home/praveenp/public_html/campustrack/College/temp.php on line 66

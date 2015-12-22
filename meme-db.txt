@@ -1,0 +1,107 @@
+-- phpMyAdmin SQL Dump
+-- version 3.1.3.1
+-- http://www.phpmyadmin.net
+--
+-- Host: localhost
+-- Generation Time: May 13, 2014 at 09:53 AM
+-- Server version: 5.1.33
+-- PHP Version: 5.2.9
+
+SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
+
+--
+-- Database: `meme`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `active_guests`
+--
+
+CREATE TABLE IF NOT EXISTS `active_guests` (
+  `ip` varchar(15) NOT NULL,
+  `timestamp` int(11) unsigned NOT NULL,
+  PRIMARY KEY (`ip`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `active_guests`
+--
+
+INSERT INTO `active_guests` (`ip`, `timestamp`) VALUES
+('127.0.0.1', 1399974717);
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `active_users`
+--
+
+CREATE TABLE IF NOT EXISTS `active_users` (
+  `username` varchar(30) NOT NULL,
+  `timestamp` int(11) unsigned NOT NULL,
+  PRIMARY KEY (`username`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `active_users`
+--
+
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `banned_users`
+--
+
+CREATE TABLE IF NOT EXISTS `banned_users` (
+  `username` varchar(30) NOT NULL,
+  `timestamp` int(11) unsigned NOT NULL,
+  PRIMARY KEY (`username`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `banned_users`
+--
+
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `country`
+--
+
+CREATE TABLE IF NOT EXISTS `country` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `country` varchar(200) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=2 ;
+
+--
+-- Dumping data for table `country`
+--
+
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `users`
+--
+
+CREATE TABLE IF NOT EXISTS `users` (
+  `username` varchar(30) NOT NULL,
+  `password` varchar(32) DEFAULT NULL,
+  `userid` varchar(32) DEFAULT NULL,
+  `userlevel` tinyint(1) unsigned NOT NULL,
+  `email` varchar(50) DEFAULT NULL,
+  `timestamp` int(11) unsigned NOT NULL,
+  PRIMARY KEY (`username`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `users`
+--
+
+INSERT INTO `users` (`username`, `password`, `userid`, `userlevel`, `email`, `timestamp`) VALUES
+('admin', '21232f297a57a5a743894a0e4a801fc3', '7497c70b5a0c478c0a2c126dba40fdcc', 9, 'admin@localhost.com', 1399974716);
